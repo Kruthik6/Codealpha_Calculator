@@ -1,12 +1,12 @@
 # Codealpha_Calculator
-it has different operations for addition multiplication division and subtraction
-# <!DOCTYPE html>
+it has different operations for addition multiplication division and subtraction 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calculator</title>
-  #  <link rel="stylesheet" href="Calculator.css">
+   <link rel="stylesheet" href="Calculator.css">
 </head>
 <body>
 
